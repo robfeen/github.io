@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "https://detailhandelroyaltymuseum.nl/wp-content/uploads/2023/10/td-1877manifest.json",
+	"@id": "http://127.0.0.1:5500/td-1877manifest.json",
 	"@type": "sc:Manifest",
 	"label": "TD-1877",
 	"metadata": [
